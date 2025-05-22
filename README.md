@@ -25,4 +25,4 @@ This is a basic Spring Boot web app that:
 ## Screenshot of Result
 
 ![App Screenshot](screenshots/img.png)
-![App Screenshot](screenshot/img_1.png)
+![App Screenshot](screenshots/img_1.png)
